@@ -4,3 +4,5 @@ add b
 add c
 add d
 add g
+add e
+add f
